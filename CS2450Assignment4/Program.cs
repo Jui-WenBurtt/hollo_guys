@@ -10,7 +10,7 @@ namespace CS2450Assignment4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 2dfgsfgsgf sd!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
